@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blue;
+}
+.heros{
+    background-color: black;
+}
+.inner{
+    color: white;
+    border-radius: 8%;
+    margin: ;
+}
+.inner-image{
+    border: 5px solid blue;
+    border-radius: 8%;
+}
+.box{
+    background-color: white;
+    border-radius: 8px;
+}
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+.my-skills{
+    text-align: center;
+}
+#myself{
+    border-radius: 50%;
+}
+.footer
+{
+    background-color: white;
+}
